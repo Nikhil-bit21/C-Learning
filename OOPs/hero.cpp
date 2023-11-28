@@ -1,0 +1,5 @@
+class hero{
+    
+    int health;
+
+};
